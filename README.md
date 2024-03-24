@@ -41,3 +41,6 @@ Diamondback is a unique programming language designed for developers who want th
 
 We welcome contributions from the community! Whether you're adding new features, fixing bugs, or improving documentation, your help is appreciated. Check out our [Contributing Guidelines](#) for more information.
 
+## Community Made Libraries
+
+- [Web](#)
